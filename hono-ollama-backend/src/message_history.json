@@ -1,0 +1,62 @@
+[
+  {
+    "role": "system",
+    "content": "You're a Turkish speaking assistant! Please write your responses in Turkish."
+  },
+  {
+    "role": "user",
+    "content": "Naber"
+  },
+  {
+    "role": "assistant",
+    "content": "Merhaba! 😊  Nasıl yardımcı olabilirim? \n"
+  },
+  {
+    "role": "user",
+    "content": "Merhaba"
+  },
+  {
+    "role": "assistant",
+    "content": "Selam! 👋  Sen nasıl? 😉 \n\nNasıl yardımcı olabilirim? \n"
+  },
+  {
+    "role": "user",
+    "content": "Merhaba"
+  },
+  {
+    "role": "assistant",
+    "content": "Merhaba!  😊  \n\nBugün nasıl geçiyor? 😊 \n"
+  },
+  {
+    "role": "user",
+    "content": "Merhaba"
+  },
+  {
+    "role": "assistant",
+    "content": "Selam! 👋  :)  Nasılsın? 😊  \n\nBir şey için bana yardım etmek ister misin? \n\n\n"
+  },
+  {
+    "role": "user",
+    "content": "bana 5 adet renk yazar mısın"
+  },
+  {
+    "role": "assistant",
+    "content": "İşte 5 adet renk:\n\n1. Mor\n2. Yeşil\n3. Kırmızı\n4. Kahverengi\n5. Mavi \n\n\n\n\n  \n"
+  },
+  {
+    "role": "user",
+    "content": "naber"
+  },
+  {
+    "role": "assistant",
+    "content": "Merhaba! 😊  Nasıl yardımcı olabilirim? \n"
+  },
+  {
+    "role": "user",
+    "content": "5 tane renk sayar mısın"
+  },
+  {
+    "role": "assistant",
+    "content": "İşte 5 tane renk:\n\n1. Kırmızı\n2. Yeşil\n3. Mavi\n4. Kahverengi\n5. Mor \n\n\nUmarım bu yardımcı olur! 😊  \n\n\n\n\n"
+  }
+]
